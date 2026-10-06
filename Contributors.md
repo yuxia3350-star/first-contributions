@@ -80,6 +80,7 @@ new change
 Faheem Ali
 [Vishal Yadav](https://github.com/wearetec9) - first contribution
 Rahul Aggarwal
+- [yuxia3350-star](https://github.com/yuxia3350-star)
 - [Benji Dunn](https://github.com/Benji-Dunn)
 - butter
 - [Farhan Ahmad](https://github.com/KevinForsgren)
@@ -98,7 +99,7 @@ Rahul Aggarwal
 - [Jishnu Madhu](https://github.com/JishnuMadhu)
 B05U3-
 - balayyoub
-- [Sagar Rathi](https://github.com/sagarrathi16)
+- [Sagar Rathi](https://github.com/sagarrathi16）
 - [Pitercoding](https://github.com/pitercoding)
 - [Varunika Shree S](https://github.com/VarunikaShreeS)
 - [Johanna Pérez]
